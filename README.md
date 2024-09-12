@@ -1,4 +1,10 @@
 # Team: MLHacks 👩🏻‍💻🧑🏻‍💻
+# Team Members:
+1. Soham Dutta
+2. Sonajhoori Mitra
+3. Dhrubo Ghosh
+4. Satavisa Das
+# Institute: Heritage Institute Of Technology,Kolkata
 
 # ML Challenge Problem Statement
 
