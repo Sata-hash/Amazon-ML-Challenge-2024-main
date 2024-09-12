@@ -1,4 +1,4 @@
-# Team: The_Techies 👩🏻‍💻🧑🏻‍💻
+# Team: MLHacks 👩🏻‍💻🧑🏻‍💻
 
 # ML Challenge Problem Statement
 
