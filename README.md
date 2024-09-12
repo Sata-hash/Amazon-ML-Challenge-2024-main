@@ -1,4 +1,4 @@
-# Team: MLHacks 👩🏻‍💻🧑🏻‍💻
+# Team: MLHacks 
 # Team Members:
 1. Soham Dutta
 2. Sonajhoori Mitra
